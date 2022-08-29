@@ -1,0 +1,33 @@
+*{
+	margin: 0;
+	padding: 0;
+	font-family: 'poppins',sans-serif;
+	box-sizing: border-box;
+}
+body{
+	 background-repeat: no-repeat;
+                background-size: 100% 100%;
+                background-attachment: fixed;
+}
+.title{
+	position: absolute;
+	top: 10%;
+	left: 50%;
+	transform: translate(-50%,-50%);
+}
+.hobbies{
+	color: black;
+	position: absolute;
+	top: 33%;
+	left: 50%;
+	font-size: 1em;
+	transform: translate(-50%,-50%);
+}
+.hub{
+	color: whitesmoke;
+	position: absolute;
+	top: 63%;
+	left: 39%;
+	font-size: 1em;
+	transform: translate(-50%,-50%);
+}
